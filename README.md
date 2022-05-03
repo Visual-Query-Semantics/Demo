@@ -8,7 +8,7 @@
 
 * This is a Mask and Query-Answer demo using the pre-trained MAE models. No GPU is needed.
 
-The following table provides the pre-trained checkpoints used in the paper, converted from TF/TPU to PT/GPU:
+The following table provides the pre-trained MAE checkpoints used in this demo:
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
