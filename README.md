@@ -31,3 +31,7 @@ The following table provides the pre-trained MAE checkpoints used in this demo:
 demo/tools/mask_gui.py: Masking GUI tools.
 
 demo/demo_main_base.py: Query-Answer with ViT-Base MAE pretrained checkpoint.
+
+demo/mask.txt: mask location per image.
+
+demo/semantics.txt: category label and semantic label per image.
