@@ -4,5 +4,22 @@
 
 * This repo is based on [`timm==0.4.5`], is needed to work with PyTorch 1.8.1+ and Python 3.7+.
 
-!pip3 install timm==0.4.5
+* !pip3 install timm==0.4.5
 
+* This is a Mask and Query-Answer demo using the pre-trained MAE models. No GPU is needed.
+
+The following table provides the pre-trained checkpoints used in the paper, converted from TF/TPU to PT/GPU:
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom"></th>
+<th valign="bottom">ViT-Base</th>
+<th valign="bottom">ViT-Large</th>
+<th valign="bottom">ViT-Large-GANLoss</th>
+<!-- TABLE BODY -->
+<tr><td align="left">pre-trained checkpoint</td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_base.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_large.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/mae/visualize/mae_visualize_vit_large_ganloss.pth">download</a></td>
+</tr>
+</tbody></table>
