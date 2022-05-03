@@ -1,0 +1,1 @@
+download ILSVRC2012 [Development kit (Task 1 & 2)](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_devkit_t12.tar.gz) and unpack here
