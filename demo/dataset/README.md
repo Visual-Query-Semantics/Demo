@@ -1,1 +1,1 @@
-download ILSVRC2012 Val Set here
+download ILSVRC2012 [Val](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar) Set here
