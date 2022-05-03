@@ -28,6 +28,8 @@ The following table provides the pre-trained MAE checkpoints used in this demo:
 
 ### Catalog
 
+demo/imagenet/preprocess.py: re-organize the documents of images by categories.
+
 demo/tools/mask_gui.py: Masking GUI tools.
 
 demo/demo_main_base.py: Query-Answer with ViT-Base MAE pretrained checkpoint.
