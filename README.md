@@ -1,4 +1,4 @@
-# Mask and Query-Answer Demo
+## Mask and Query-Answer Demo
 
 * This repo is a modification on the [MAE repo](https://github.com/facebookresearch/mae).
 
@@ -26,3 +26,8 @@ The following table provides the pre-trained MAE checkpoints used in this demo:
 
 * The dataset used in this demo is built on ILSVRC2012 dataset's [Val](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar) and [Test](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_test_v10102019.tar) set
 
+### Catalog
+
+demo/tools/mask_gui.py: Masking GUI tools.
+
+demo/demo_main_base.py: Query-Answer with ViT-Base MAE pretrained checkpoint.
