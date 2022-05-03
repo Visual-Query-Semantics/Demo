@@ -34,6 +34,6 @@ demo/tools/mask_gui.py: Masking GUI tools.
 
 demo/demo_main_base.py: Query-Answer with ViT-Base MAE pretrained checkpoint.
 
-demo/mask.txt: mask location per image.
+demo/mask.txt: mask location per image per line.
 
-demo/semantics.txt: category label and semantic label per image.
+demo/mask_semantics.txt: category label and semantic label per image per line.
