@@ -28,6 +28,8 @@ The following table provides the pre-trained MAE checkpoints used in this demo:
 
 ### Catalog
 
+demo/imagenet/categories.txt: 1K category label of images.
+
 demo/imagenet/preprocess.py: re-organize the documents of images by categories.
 
 demo/tools/mask_gui.py: Masking GUI tools.
