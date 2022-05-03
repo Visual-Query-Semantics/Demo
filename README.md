@@ -23,3 +23,6 @@ The following table provides the pre-trained MAE checkpoints used in this demo:
 <td align="center"><a href="https://dl.fbaipublicfiles.com/mae/visualize/mae_visualize_vit_large_ganloss.pth">download</a></td>
 </tr>
 </tbody></table>
+
+* The dataset used in this demo is built on ILSVRC2012 dataset's [Val](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar) and [Test](https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_test_v10102019.tar) set
+
